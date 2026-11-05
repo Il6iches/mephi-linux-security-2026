@@ -1,0 +1,1 @@
+user1 ALL=(ALL) /usr/bin/timedatectl, /usr/bin/date
